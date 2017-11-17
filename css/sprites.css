@@ -1,0 +1,235 @@
+.socialMedia__faceboock, .socialMedia__twitter, .socialMedia__google-plus,
+.socialMedia__linkID, #advantages__ico1, .advantages__ico1W, #advantages__ico2,
+.advantages__ico2W, #advantages__ico3, .advantages__ico3W, #advantages__ico4,
+.advantages__ico4W, #advantages__ico5, .advantages__ico5W, #advantages__ico6,
+.advantages__ico6W, #advantages__ico7, .advantages__ico7W, #advantages__ico8,
+.advantages__ico8W, .slider__ico, .header__contactsEmailImg, .header__contactsTelImg,
+.arrowDown, .arrowUp, .arrowRight, .price__advantagesItemIconActive,
+.price__advantagesItemPassive {
+	background: url(../img/sprites.png) no-repeat;
+	display: inline-block;
+}
+
+#advantages__ico1{
+	background-position: 0 0;
+	width: 56px;
+	height: 43px;
+	padding-bottom: 20px;
+}
+
+.advantages__ico1W{
+	background-position: -65px 0;
+	width: 56px;
+	height: 43px;
+}
+
+#advantages__ico2{
+	background-position: -130px 0;
+	width: 54px;
+	height: 43px;
+	padding-bottom: 20px;
+}
+
+.advantages__ico2W{
+	background-position: -191px 0;
+	width: 54px;
+	height: 43px;
+}
+
+#advantages__ico3{
+	background-position: -251px 0;
+	width: 65px;
+	height: 49px;
+	padding-bottom: 20px;
+}
+
+.advantages__ico3W{
+	background-position: -326px 0;
+	width: 65px;
+	height: 49px;
+}
+
+#advantages__ico4{
+	background-position: -409px 0;
+	width: 60px;
+	height: 42px;
+	padding-bottom: 20px;
+}
+
+.advantages__ico4W{
+	background-position: -480px 0;
+	width: 60px;
+	height: 42px;
+}
+
+#advantages__ico5{
+	background-position: 0 -65px ;
+	width: 63px;
+	height: 48px;
+	padding-bottom: 20px;
+}
+
+.advantages__ico5W{
+	background-position: -70px -65px ;
+	width: 63px;
+	height: 48px;
+}
+
+#advantages__ico6{
+	background-position: -157px -62px ;
+	width: 47px;
+	height: 51px;
+	padding-bottom: 20px;
+}
+
+.advantages__ico6W{
+	background-position: -216px -66px ;
+	width: 47px;
+	height: 51px;
+}
+
+#advantages__ico7{
+	background-position: -280px -68px ;
+	width: 60px;
+	height: 51px;
+	padding-bottom: 20px;
+}
+
+.advantages__ico7W{
+	background-position: -345px -69px ;
+	width: 60px;
+	height: 51px;
+}
+
+#advantages__ico8{
+	background-position: -423px -73px ;
+	width: 63px;
+	height: 38px;
+	padding-bottom: 20px;
+}
+
+.advantages__ico8W{
+	background-position: -495px -65px ;
+	width: 63px;
+	height: 38px;
+}
+
+.slider__ico{
+	background-position: -571px 0;
+	width: 69px;
+	height: 58px;
+}
+
+#stages__ico1{
+	background-position: -2px -152px ;
+	width: 46px;
+	height: 46px;
+}
+
+#stages__ico2{
+	background-position: -137px -151px ;
+	width: 46px;
+	height: 46px;
+}
+
+#stages__ico3{
+	background-position: -72px -153px ;
+	width: 46px;
+	height: 46px;
+}
+
+.header__contactsEmailImg{
+	background-position: -566px -69px ;
+	width: 14px;
+	height: 11px;
+}
+
+.header__contactsTelImg{
+	background-position: -589px -68px ;
+	width: 11px;
+	height: 12px;
+}
+
+.socialMedia__faceboock{
+	background-position: -561px -86px;
+	width: 10px;
+	height: 12px;
+	display: inline-block;
+	margin-left: 5px;
+}
+.socialMedia__twitter{
+	background-position: -575px -86px;
+	width: 15px;
+	height: 12px;
+	display: inline-block;
+	margin-left: 5px;
+}
+.socialMedia__google-plus{
+	background-position: -595px -86px;
+	width: 16px;
+	height: 12px;
+	display: inline-block;
+	margin-left: 5px;
+}
+.socialMedia__linkID{
+	background-position: -614px -86px;
+	width: 15px;
+	height: 12px;
+	display: inline-block;
+	margin-left: 5px;
+}
+
+.arrowDown{
+	background-position: -203px -185px ;
+	width: 28px;
+	height: 14px;
+}
+
+.arrowUp{
+	background-position: -200px -168px ;
+	width: 28px;
+	height: 14px;
+}
+
+.arrowRight{
+	background-position: -208px -150px ;
+	width: 8px;
+	height: 12px;
+}
+
+.price__advantagesItemIconActive{
+	background-position: -253px -154px;
+	width: 9px;
+	height: 9px;
+	margin-right: 7px;
+}
+
+.price__advantagesItemPassive{
+	background-position: -262px -154px;
+	width: 9px;
+	height: 9px;
+	margin-right: 7px;
+}
+
+#stages__ico1, #stages__ico2, #stages__ico3 {
+	background: url(../img/sprites2.png) no-repeat;
+	display: inline-block;
+}
+
+#stages__ico1 {
+	background-position: 0 0;
+	width: 46px;
+	height: 46px;
+}
+
+#stages__ico2 {
+	background-position: -138px 0;
+	width: 46px;
+	height: 46px;
+}
+
+#stages__ico3 {
+	background-position: -230px 0;
+	width: 46px;
+	height: 46px;
+}
